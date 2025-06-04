@@ -12,7 +12,7 @@
     <?php
     function Triangulo($Lado1, $Lado2, $Lado3)
     {
-        // conferir se é um triângulo
+        // confere se é um triângulo
         if ($Lado1 + $Lado2 > $Lado3 and $Lado1 + $Lado3 > $Lado2 and $Lado2 + $Lado3 > $Lado1) {
             if ($Lado1 == $Lado2 and $Lado2 == $Lado3) {
                 echo "É um Triângulo Equilátero.";

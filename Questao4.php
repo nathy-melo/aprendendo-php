@@ -48,8 +48,8 @@
     <div class="Questoes">Questão 4</div>
 
     <?php
-    $Num1 = 14;
-    $Num2 = 146;
+    $Num1 = 15;
+    $Num2 = 150;
     $Num3 = 45;
     Comparar($Num1, $Num2, $Num3);
     ?>

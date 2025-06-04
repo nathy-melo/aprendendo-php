@@ -31,7 +31,7 @@
     <div class="Questoes">Questão 2</div>
 
     <?php
-    $Numero = 57;
+    $Numero = 93;
     Divisao($Numero);
     ?>
 

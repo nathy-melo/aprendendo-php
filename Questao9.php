@@ -12,8 +12,8 @@
     <?php
     function Imprimir($Numero_de_Vezes)
     {
-        for ($ck = 0; $ck < $Numero_de_Vezes; $ck++) {
-            echo ($ck + 1) . " - SOL<br>";
+        for ($nt = 0; $nt < $Numero_de_Vezes; $nt++) {
+            echo ($nt + 1) . " - SOL<br>";
         }
     }
     ?>

@@ -11,14 +11,14 @@
     <?php
     function Imprimir($Numero)
     {
-        $ck = 1;
+        $nt = 1;
         $produto = 1;
 
         do {
-            echo "$ck - Produto: $produto<br>";
-            $produto *= $ck;
-            $ck++;
-        } while ($ck <= $Numero);
+            echo "$nt - Produto: $produto<br>";
+            $produto *= $nt;
+            $nt++;
+        } while ($nt <= $Numero);
     }
     ?>
 

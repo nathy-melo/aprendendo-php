@@ -28,9 +28,9 @@
     <div class="Questoes">Questão 3</div>
 
     <?php
-    $Nome = "Caike";
+    $Nome = "Nathally";
     $Idade = "17";
-    $Sexo = "Masculino";
+    $Sexo = "Feminino";
     Pessoa($Nome, $Sexo, $Idade);
     ?>
 

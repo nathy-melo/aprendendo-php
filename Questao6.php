@@ -40,7 +40,7 @@
     <div class="Questoes">Questão 6</div>
 
     <?php
-    $Numero = 5;
+    $Numero = 2;
     Qual_o_Mes($Numero);
     ?>
 

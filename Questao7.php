@@ -34,13 +34,13 @@
 
     <?php
     $Livros = array(
-        1 => "É Assim que Acaba",
-        2 => "O Trono de Vidro",
-        3 => "Feliz Ano Velho",
-        4 => "Harry Potter",
-        5 => "Dom Quixote"
+        1 => "Vermelho Branco E Sangue Azul",
+        2 => "A Vida Ivisível De Eddie LaRue",
+        3 => "Percy Jackson",
+        4 => "Orgulho E Preconceito",
+        5 => "A Arma Escarlate"
     );
-    $Nome = "Caike";
+    $Nome = "Nathally";
     $Usuario = "Aluno";
     $Codigo_do_Livro = 1;
     Biblioteca($Livros, $Usuario, $Nome, $Codigo_do_Livro);
